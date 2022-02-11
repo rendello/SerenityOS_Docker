@@ -6,9 +6,9 @@ PREREQUISITES
     - xhost
 
 USAGE
-    ./serenity_docker.sh build: Build the Dockerfile.\n
-    ./serenity_docker.sh build-no-cache: As above, without using cache.\n
-    ./serenity_docker.sh run: Run SerenityOS Docker container (must be built first)."
+    ./serenity_docker.sh build: Build the Dockerfile.
+    ./serenity_docker.sh build-no-cache: As above, without using cache.
+    ./serenity_docker.sh run: Run SerenityOS Docker container (must be built first).
 
 WARNINGS
     This is not a part of the SerenityOS project; don't expect support from the
